@@ -8,3 +8,6 @@
 
 # Scope Global
 # Variables que se declaran fuera de una funcion o bloque de codigo y tendremos acceso a ellas desde toa la aplicacion. Ejemplo: src/scope/global.js
+
+# Scope Bloque
+# Significa que las variabes declaras en un bloque de codigo solo podran ser accesidas dentro de ese bloque. Ejemplo src/scope/block.js
