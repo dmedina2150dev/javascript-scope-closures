@@ -11,3 +11,8 @@
 
 # Scope Bloque
 # Significa que las variabes declaras en un bloque de codigo solo podran ser accesidas dentro de ese bloque. Ejemplo src/scope/block.js
+
+
+# ¿Que es un Closure?
+# Es la combinacion de una funcion y el ambito lexico en la cual ha sido declarada dicha funcion.
+# Un Closure recuerda el ambito en el cual ha sido creado.
