@@ -16,3 +16,6 @@
 # ¿Que es un Closure?
 # Es la combinacion de una funcion y el ambito lexico en la cual ha sido declarada dicha funcion.
 # Un Closure recuerda el ambito en el cual ha sido creado.
+
+# ¿Que es el Hoisting?
+# Acomoda el codigo que puede antes de la ejecucion del mismo.. Lo guarda en memoria, y evita errores.. Solo sucede con la inicializacion no con la asignacion.

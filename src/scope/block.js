@@ -56,4 +56,4 @@ const anotherFunctionLet = () => {
         }, 1000)
     }
 }
-anotherFunction();
+anotherFunctionLet();
