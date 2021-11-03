@@ -15,7 +15,7 @@ const moneyBox = () => {
 
     const countCoins = (coins) => {
         saveCoins += coins;
-        console.log(`MoneyBox: ${saveCoins}`);
+        console.log(`MoneyBox: $${saveCoins}`);
     }
 
     return countCoins;

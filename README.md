@@ -19,3 +19,4 @@
 
 # ¿Que es el Hoisting?
 # Acomoda el codigo que puede antes de la ejecucion del mismo.. Lo guarda en memoria, y evita errores.. Solo sucede con la inicializacion no con la asignacion.
+# https://www.youtube.com/watch?v=uI6o97A4IrI&t=1s
